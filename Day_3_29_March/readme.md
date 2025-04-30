@@ -189,11 +189,11 @@ This README provides an overview of the code's functionality, structure, and imp
 2. **Steps**:
    - Clone the repository:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/netfreak12/C_Sharp_Daily/edit/master/Day_3_29_March/
      ```
    - Navigate to the project directory:
      ```bash
-     cd <project-directory>
+     cd /Day_3_29_March
      ```
    - Compile and run the program:
      ```bash
