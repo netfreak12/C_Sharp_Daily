@@ -200,11 +200,3 @@ This README provides an overview of the code's functionality, structure, and imp
      dotnet run
      ```
 
----
-
-## **Conclusion**
-This repository serves as a practical demonstration of key C# programming concepts. By following the best practices outlined in this README, developers can ensure that the code is maintainable, extensible, and robust. Contributions and feedback are welcome!
-
----
-
-**End of README**
