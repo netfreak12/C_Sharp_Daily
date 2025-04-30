@@ -1,0 +1,14 @@
+S:\Sandesh\lazyLoad\lazyLoad\bin\Debug\net9.0\lazyLoad.exe
+S:\Sandesh\lazyLoad\lazyLoad\bin\Debug\net9.0\lazyLoad.deps.json
+S:\Sandesh\lazyLoad\lazyLoad\bin\Debug\net9.0\lazyLoad.runtimeconfig.json
+S:\Sandesh\lazyLoad\lazyLoad\bin\Debug\net9.0\lazyLoad.dll
+S:\Sandesh\lazyLoad\lazyLoad\bin\Debug\net9.0\lazyLoad.pdb
+S:\Sandesh\lazyLoad\lazyLoad\obj\Debug\net9.0\lazyLoad.GeneratedMSBuildEditorConfig.editorconfig
+S:\Sandesh\lazyLoad\lazyLoad\obj\Debug\net9.0\lazyLoad.AssemblyInfoInputs.cache
+S:\Sandesh\lazyLoad\lazyLoad\obj\Debug\net9.0\lazyLoad.AssemblyInfo.cs
+S:\Sandesh\lazyLoad\lazyLoad\obj\Debug\net9.0\lazyLoad.csproj.CoreCompileInputs.cache
+S:\Sandesh\lazyLoad\lazyLoad\obj\Debug\net9.0\lazyLoad.dll
+S:\Sandesh\lazyLoad\lazyLoad\obj\Debug\net9.0\refint\lazyLoad.dll
+S:\Sandesh\lazyLoad\lazyLoad\obj\Debug\net9.0\lazyLoad.pdb
+S:\Sandesh\lazyLoad\lazyLoad\obj\Debug\net9.0\lazyLoad.genruntimeconfig.cache
+S:\Sandesh\lazyLoad\lazyLoad\obj\Debug\net9.0\ref\lazyLoad.dll

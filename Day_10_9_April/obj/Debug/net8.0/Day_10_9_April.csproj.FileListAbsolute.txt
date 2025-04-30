@@ -1,0 +1,14 @@
+S:\Sandesh\Day_10_9_April\bin\Debug\net8.0\Day_10_9_April.exe
+S:\Sandesh\Day_10_9_April\bin\Debug\net8.0\Day_10_9_April.deps.json
+S:\Sandesh\Day_10_9_April\bin\Debug\net8.0\Day_10_9_April.runtimeconfig.json
+S:\Sandesh\Day_10_9_April\bin\Debug\net8.0\Day_10_9_April.dll
+S:\Sandesh\Day_10_9_April\bin\Debug\net8.0\Day_10_9_April.pdb
+S:\Sandesh\Day_10_9_April\obj\Debug\net8.0\Day_10_9_April.GeneratedMSBuildEditorConfig.editorconfig
+S:\Sandesh\Day_10_9_April\obj\Debug\net8.0\Day_10_9_April.AssemblyInfoInputs.cache
+S:\Sandesh\Day_10_9_April\obj\Debug\net8.0\Day_10_9_April.AssemblyInfo.cs
+S:\Sandesh\Day_10_9_April\obj\Debug\net8.0\Day_10_9_April.csproj.CoreCompileInputs.cache
+S:\Sandesh\Day_10_9_April\obj\Debug\net8.0\Day_10_9_April.dll
+S:\Sandesh\Day_10_9_April\obj\Debug\net8.0\refint\Day_10_9_April.dll
+S:\Sandesh\Day_10_9_April\obj\Debug\net8.0\Day_10_9_April.pdb
+S:\Sandesh\Day_10_9_April\obj\Debug\net8.0\Day_10_9_April.genruntimeconfig.cache
+S:\Sandesh\Day_10_9_April\obj\Debug\net8.0\ref\Day_10_9_April.dll

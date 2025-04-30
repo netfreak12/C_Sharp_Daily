@@ -1,0 +1,14 @@
+S:\Sandesh\StringRev\bin\Debug\net8.0\StringRev.exe
+S:\Sandesh\StringRev\bin\Debug\net8.0\StringRev.deps.json
+S:\Sandesh\StringRev\bin\Debug\net8.0\StringRev.runtimeconfig.json
+S:\Sandesh\StringRev\bin\Debug\net8.0\StringRev.dll
+S:\Sandesh\StringRev\bin\Debug\net8.0\StringRev.pdb
+S:\Sandesh\StringRev\obj\Debug\net8.0\StringRev.GeneratedMSBuildEditorConfig.editorconfig
+S:\Sandesh\StringRev\obj\Debug\net8.0\StringRev.AssemblyInfoInputs.cache
+S:\Sandesh\StringRev\obj\Debug\net8.0\StringRev.AssemblyInfo.cs
+S:\Sandesh\StringRev\obj\Debug\net8.0\StringRev.csproj.CoreCompileInputs.cache
+S:\Sandesh\StringRev\obj\Debug\net8.0\StringRev.dll
+S:\Sandesh\StringRev\obj\Debug\net8.0\refint\StringRev.dll
+S:\Sandesh\StringRev\obj\Debug\net8.0\StringRev.pdb
+S:\Sandesh\StringRev\obj\Debug\net8.0\StringRev.genruntimeconfig.cache
+S:\Sandesh\StringRev\obj\Debug\net8.0\ref\StringRev.dll

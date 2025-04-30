@@ -1,0 +1,14 @@
+S:\Sandesh\net3\bin\Debug\net8.0\net3.exe
+S:\Sandesh\net3\bin\Debug\net8.0\net3.deps.json
+S:\Sandesh\net3\bin\Debug\net8.0\net3.runtimeconfig.json
+S:\Sandesh\net3\bin\Debug\net8.0\net3.dll
+S:\Sandesh\net3\bin\Debug\net8.0\net3.pdb
+S:\Sandesh\net3\obj\Debug\net8.0\net3.GeneratedMSBuildEditorConfig.editorconfig
+S:\Sandesh\net3\obj\Debug\net8.0\net3.AssemblyInfoInputs.cache
+S:\Sandesh\net3\obj\Debug\net8.0\net3.AssemblyInfo.cs
+S:\Sandesh\net3\obj\Debug\net8.0\net3.csproj.CoreCompileInputs.cache
+S:\Sandesh\net3\obj\Debug\net8.0\net3.dll
+S:\Sandesh\net3\obj\Debug\net8.0\refint\net3.dll
+S:\Sandesh\net3\obj\Debug\net8.0\net3.pdb
+S:\Sandesh\net3\obj\Debug\net8.0\net3.genruntimeconfig.cache
+S:\Sandesh\net3\obj\Debug\net8.0\ref\net3.dll
