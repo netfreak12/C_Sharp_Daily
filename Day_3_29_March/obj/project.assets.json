@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\Sandesh\\Daily Session Codes\\Day_3_29_March\\net3.csproj",
+      "projectUniqueName": "S:\\Sandesh\\C_Sharp_Daily\\Day_3_29_March\\net3.csproj",
       "projectName": "net3",
-      "projectPath": "S:\\Sandesh\\Daily Session Codes\\Day_3_29_March\\net3.csproj",
+      "projectPath": "S:\\Sandesh\\C_Sharp_Daily\\Day_3_29_March\\net3.csproj",
       "packagesPath": "C:\\Users\\deshm\\.nuget\\packages\\",
-      "outputPath": "S:\\Sandesh\\Daily Session Codes\\Day_3_29_March\\obj\\",
+      "outputPath": "S:\\Sandesh\\C_Sharp_Daily\\Day_3_29_March\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
