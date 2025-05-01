@@ -1,5 +1,5 @@
 # Multi-threading Concepts in C#
-
+---
 This repository contains code examples that demonstrate key concepts and theories related to multi-threading in C#. Below is a detailed explanation of the concepts, theories, and their implementation in the provided code.
 
 ---
