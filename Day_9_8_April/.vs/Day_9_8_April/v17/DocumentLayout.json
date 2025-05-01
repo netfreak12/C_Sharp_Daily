@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "S:\\Sandesh\\Day_9_8_April\\",
+  "WorkspaceRootPath": "S:\\Sandesh\\C_Sharp_Daily\\Day_9_8_April\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97E1AA18-14C6-41EA-852A-FC60D4ADA195}|Day_9_8_April.csproj|s:\\sandesh\\day_9_8_april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97E1AA18-14C6-41EA-852A-FC60D4ADA195}|Day_9_8_April.csproj|s:\\sandesh\\c_sharp_daily\\day_9_8_april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97E1AA18-14C6-41EA-852A-FC60D4ADA195}|Day_9_8_April.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97E1AA18-14C6-41EA-852A-FC60D4ADA195}|Day_9_8_April.csproj|s:\\sandesh\\day_9_8_april\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97E1AA18-14C6-41EA-852A-FC60D4ADA195}|Day_9_8_April.csproj|s:\\sandesh\\c_sharp_daily\\day_9_8_april\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97E1AA18-14C6-41EA-852A-FC60D4ADA195}|Day_9_8_April.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "S:\\Sandesh\\Day_9_8_April\\Student.cs",
+              "DocumentMoniker": "S:\\Sandesh\\C_Sharp_Daily\\Day_9_8_April\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "S:\\Sandesh\\Day_9_8_April\\Student.cs",
+              "ToolTip": "S:\\Sandesh\\C_Sharp_Daily\\Day_9_8_April\\Student.cs",
               "RelativeToolTip": "Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T06:46:45.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T06:46:45.78Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "S:\\Sandesh\\Day_9_8_April\\Program.cs",
+              "DocumentMoniker": "S:\\Sandesh\\C_Sharp_Daily\\Day_9_8_April\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "S:\\Sandesh\\Day_9_8_April\\Program.cs",
+              "ToolTip": "S:\\Sandesh\\C_Sharp_Daily\\Day_9_8_April\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T05:34:27.342Z",
               "EditorCaption": ""

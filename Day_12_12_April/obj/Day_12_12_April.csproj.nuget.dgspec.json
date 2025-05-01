@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Sandesh\\Day_12_12_April\\Day_12_12_April.csproj": {}
+    "S:\\Sandesh\\C_Sharp_Daily\\Day_12_12_April\\Day_12_12_April.csproj": {}
   },
   "projects": {
-    "S:\\Sandesh\\Day_12_12_April\\Day_12_12_April.csproj": {
+    "S:\\Sandesh\\C_Sharp_Daily\\Day_12_12_April\\Day_12_12_April.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Sandesh\\Day_12_12_April\\Day_12_12_April.csproj",
+        "projectUniqueName": "S:\\Sandesh\\C_Sharp_Daily\\Day_12_12_April\\Day_12_12_April.csproj",
         "projectName": "Day_12_12_April",
-        "projectPath": "S:\\Sandesh\\Day_12_12_April\\Day_12_12_April.csproj",
+        "projectPath": "S:\\Sandesh\\C_Sharp_Daily\\Day_12_12_April\\Day_12_12_April.csproj",
         "packagesPath": "C:\\Users\\deshm\\.nuget\\packages\\",
-        "outputPath": "S:\\Sandesh\\Day_12_12_April\\obj\\",
+        "outputPath": "S:\\Sandesh\\C_Sharp_Daily\\Day_12_12_April\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

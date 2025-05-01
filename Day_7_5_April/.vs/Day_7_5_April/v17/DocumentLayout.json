@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "S:\\Sandesh\\Day_7_5_April\\",
+  "WorkspaceRootPath": "S:\\Sandesh\\C_Sharp_Daily\\Day_7_5_April\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB29C358-537B-4FC7-B31C-F88F5AE7B24D}|Day_7_5_April.csproj|s:\\sandesh\\day_7_5_april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB29C358-537B-4FC7-B31C-F88F5AE7B24D}|Day_7_5_April.csproj|s:\\sandesh\\c_sharp_daily\\day_7_5_april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB29C358-537B-4FC7-B31C-F88F5AE7B24D}|Day_7_5_April.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "S:\\Sandesh\\Day_7_5_April\\Program.cs",
+              "DocumentMoniker": "S:\\Sandesh\\C_Sharp_Daily\\Day_7_5_April\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "S:\\Sandesh\\Day_7_5_April\\Program.cs",
+              "ToolTip": "S:\\Sandesh\\C_Sharp_Daily\\Day_7_5_April\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwCcAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T13:33:13.031Z",
               "EditorCaption": ""

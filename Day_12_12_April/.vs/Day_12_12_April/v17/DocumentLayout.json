@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "S:\\Sandesh\\Day_12_12_April\\",
+  "WorkspaceRootPath": "S:\\Sandesh\\C_Sharp_Daily\\Day_12_12_April\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F25FE839-DEC5-4504-B74C-1A0D41BFB3A1}|Day_12_12_April.csproj|s:\\sandesh\\day_12_12_april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F25FE839-DEC5-4504-B74C-1A0D41BFB3A1}|Day_12_12_April.csproj|s:\\sandesh\\c_sharp_daily\\day_12_12_april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F25FE839-DEC5-4504-B74C-1A0D41BFB3A1}|Day_12_12_April.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "S:\\Sandesh\\Day_12_12_April\\Program.cs",
+              "DocumentMoniker": "S:\\Sandesh\\C_Sharp_Daily\\Day_12_12_April\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "S:\\Sandesh\\Day_12_12_April\\Program.cs",
+              "ToolTip": "S:\\Sandesh\\C_Sharp_Daily\\Day_12_12_April\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABuAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T01:29:22.131Z",
               "EditorCaption": ""

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "S:\\Sandesh\\Day_10_9_April\\",
+  "WorkspaceRootPath": "S:\\Sandesh\\C_Sharp_Daily\\Day_10_9_April\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7440398-E813-46EE-9D71-441282A8D75B}|Day_10_9_April.csproj|s:\\sandesh\\day_10_9_april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7440398-E813-46EE-9D71-441282A8D75B}|Day_10_9_April.csproj|s:\\sandesh\\c_sharp_daily\\day_10_9_april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7440398-E813-46EE-9D71-441282A8D75B}|Day_10_9_April.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7440398-E813-46EE-9D71-441282A8D75B}|Day_10_9_April.csproj|s:\\sandesh\\day_10_9_april\\multiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7440398-E813-46EE-9D71-441282A8D75B}|Day_10_9_April.csproj|s:\\sandesh\\c_sharp_daily\\day_10_9_april\\multiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7440398-E813-46EE-9D71-441282A8D75B}|Day_10_9_April.csproj|solutionrelative:multiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Multiple.cs",
-              "DocumentMoniker": "S:\\Sandesh\\Day_10_9_April\\Multiple.cs",
+              "DocumentMoniker": "S:\\Sandesh\\C_Sharp_Daily\\Day_10_9_April\\Multiple.cs",
               "RelativeDocumentMoniker": "Multiple.cs",
-              "ToolTip": "S:\\Sandesh\\Day_10_9_April\\Multiple.cs",
+              "ToolTip": "S:\\Sandesh\\C_Sharp_Daily\\Day_10_9_April\\Multiple.cs",
               "RelativeToolTip": "Multiple.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T13:37:43.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T13:37:43.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "S:\\Sandesh\\Day_10_9_April\\Program.cs",
+              "DocumentMoniker": "S:\\Sandesh\\C_Sharp_Daily\\Day_10_9_April\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "S:\\Sandesh\\Day_10_9_April\\Program.cs",
+              "ToolTip": "S:\\Sandesh\\C_Sharp_Daily\\Day_10_9_April\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswEgAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T07:21:21.685Z",
               "EditorCaption": ""
