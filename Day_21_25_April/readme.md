@@ -16,6 +16,10 @@ This repository demonstrates the use of delegates, lambda expressions, anonymous
      - [`Predicate<T>`](#predicatet)
 2. [Code Explanation](#code-explanation)
 3. [Usage](#usage)
+4. [Output](#Output)
+5. [Key Takeaways](#Key-Takeaways)
+6. [Additional Resources](#Additional-Resources)
+7. [Contribution](#Contribution)
 
 ---
 
