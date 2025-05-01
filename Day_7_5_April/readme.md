@@ -106,7 +106,7 @@ do
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/day-7-loops.git
+   git clone https://github.com/netfreak12/C_Sharp_Daily.git
    ```
 
 2. Open the project in your preferred IDE (e.g., Visual Studio, Visual Studio Code).
